@@ -9,8 +9,7 @@ This SOC Lab is designed to simulate a realistic cybersecurity defense environme
 - To understand SIEM deployment and use in enterprise threat detection  
 - To practice parsing logs, writing detection rules, and investigating alerts  
 
-**Tools Used:**  
-- SIEM Platform: (e.g., Splunk / Elastic Stack / AlienVault OSSIM)  
+**Tools Used:**    
 - Virtualization: VMware Workstation / VirtualBox / Proxmox  
 - Operating Systems: Windows Server, Windows 10/11 clients  
 - Log Forwarding: Beats agents / Winlogbeat / Syslog    
@@ -30,19 +29,15 @@ _(Insert diagram showing VMs setup, log flow into SIEM, network segments, etc.)_
 
 3. **Log Forwarding Configuration**  
    - Install log forwarders (Winlogbeat for Windows, Filebeat for Linux) on endpoint VMs  
-   - Configure forwarders to send logs to SIEM’s intake ports (e.g., via syslog or HTTP Event Collector)  
+   - Configure forwarders to send logs to SIEM’s intake ports  
 
 4. **Configure Log Parsing and Indexes**  
    - Set up source types and index configurations in SIEM  
    - Test logs ingestion with sample data  
 
 5. **Detection Rules and Content**  
-   - Import or write detection rules to trigger alerts for suspicious activities (e.g., brute force, malware execution)  
-   - Enable dashboards and alerts to surface analytic insights  
-
-6. **Optional: Red Team/Blue Team Exercises**  
-   - Launch simulated attacks from Kali Linux against Windows endpoints  
-   - Use SIEM to detect, analyze, and respond to these attacks  
+   - Import or write detection rules to trigger alerts for suspicious activities   
+   - Enable dashboards and alerts to surface analytic insights    
 
 ## Sample Use Cases / Exercises
 
