@@ -16,8 +16,7 @@ This SOC Lab is designed to simulate a realistic cybersecurity defense environme
 - Operating Systems: Windows Server, Windows 10/11 clients  
 - Log Forwarding: Beats agents / Winlogbeat / Syslog    
 
-**Architecture Diagram:**  
-_(Insert diagram showing VMs setup, log flow into SIEM, network segments, etc.)_
+![Overview of SOC VM](soc_screenshots/siempr2.png)
 
 ## Setup Instructions
 
