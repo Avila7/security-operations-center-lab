@@ -12,7 +12,7 @@ This SOC Lab is designed to simulate a realistic cybersecurity defense environme
 - To practice parsing logs, writing detection rules, and investigating alerts  
 
 **Tools Used:**    
-- Virtualization: VMware Workstation / VirtualBox / Proxmox  
+- Virtualization: VMware Workstation / VirtualBox  
 - Operating Systems: Windows Server, Windows 10/11 clients  
 - Log Forwarding: Beats agents / Winlogbeat / Syslog    
 
@@ -40,7 +40,7 @@ This SOC Lab is designed to simulate a realistic cybersecurity defense environme
    - Import or write detection rules to trigger alerts for suspicious activities   
    - Enable dashboards and alerts to surface analytic insights    
 
-![Overview of SOC VM](soc_screenshots/siempr3.png)
+![Overview of SOC VM](soc_screenshots/siempr4.png)
 
 
 ## Sample Use Cases / Exercises
