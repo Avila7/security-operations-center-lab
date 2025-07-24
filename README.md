@@ -40,6 +40,9 @@ This SOC Lab is designed to simulate a realistic cybersecurity defense environme
    - Import or write detection rules to trigger alerts for suspicious activities   
    - Enable dashboards and alerts to surface analytic insights    
 
+![Overview of SOC VM](soc_screenshots/siempr3.png)
+
+
 ## Sample Use Cases / Exercises
 
 - Detecting brute force login attempts on Windows servers  
