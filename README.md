@@ -2,7 +2,7 @@
 
 ## Overview
 
-This SOC Lab is designed to simulate a realistic cybersecurity defense environment to build hands-on skills in monitoring, detection, and incident response. The lab leverages open-source and commercial tools to provide experience with Security Information and Event Management (SIEM), log aggregation, rule-based detection, and alerting. 
+This SOC Lab is designed to simulate a realistic cybersecurity defense environment to build hands-on skills in monitoring, detection, and incident response. The lab leverages open-source and commercial tools to provide experience with Security Information and Event Management (SIEM), log aggregation, rule-based detection, and alerting.  
 
 **Purpose:**  
 - To provide a practical environment for learning SOC analyst skills  
