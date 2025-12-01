@@ -1,4 +1,4 @@
- # security-operations-center-lab  b 
+ # security-operations-center-lab  
  
 ## Overview
 
